@@ -29,7 +29,7 @@ export default {
 						<meta charset="UTF-8">
 						<meta name="viewport" content="width=device-width, initial-scale=1.0">
 						<meta http-equiv="X-UA-Compatible" content="ie=edge">
-						<title>Meghan Denny</title>
+						<title>⌛ ${url}</title>
 						<meta http-equiv="refresh" content="1; url='${url}'" />
 					</head>
 					<body>
